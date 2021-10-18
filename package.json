@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "0.0.1",
+  "description": "training project gendiff",
+  "main": "index.js",
+  "type":"module",
+  "bin": {
+    "gendiff" : "bin/gendiff.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FearosD/frontend-project-lvl2.git"
+  },
+  "author": "Fearos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FearosD/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/FearosD/frontend-project-lvl2#readme"
+}
